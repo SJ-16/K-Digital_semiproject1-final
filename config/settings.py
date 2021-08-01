@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     '54.175.33.156',
     'groupbyfour.site',
     '127.0.0.1',
+    'namseungju.pythonanywhere.com',
 ]
 
 
